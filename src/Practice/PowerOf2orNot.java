@@ -19,7 +19,7 @@ public class PowerOf2orNot {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        System.out.println(power2(1624));
+        System.out.println(power2(1024));
 	}
 
 }

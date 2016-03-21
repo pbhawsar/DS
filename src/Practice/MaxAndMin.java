@@ -6,8 +6,8 @@ public class MaxAndMin {
 
 	public static void topTwo(int[] arr){
 		
-		int max1 = 0;
-		int max2 = 0;
+		int max1 = arr[0];
+		int max2 = arr[0];
 		
 		for(int num : arr){
 			

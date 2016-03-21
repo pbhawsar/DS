@@ -24,7 +24,7 @@ public class Anagram {
 		String str1 = "mary";
 		String str2 = "army";
 		
-		
+		System.out.println(str1.substring(1,str1.length()-1));
 		
 		
 	}

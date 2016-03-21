@@ -41,7 +41,7 @@ public class LongestPalin {
 		System.out.println(longestPalindrome("12145445499"));
 	    System.out.println(longestPalindrome("1223213"));
 	    System.out.println(longestPalindrome("abb"));
-
+     System.out.println("a".length());
 	}
 
 }
